@@ -1,11 +1,21 @@
 /* Add your code in each class */
 .container {
+  height: 300px;
+  width: 400px;
+  overflow: scroll;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .head {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: lightblue;
+  color: navy;
+  position: sticky;
+  top: 0%;
 }
 
 .row {
   /* .row is used in ./index.js not in the html filee */
+  background-color: lightgray;
 }
 
 /* This is a gift - Does not need editing */

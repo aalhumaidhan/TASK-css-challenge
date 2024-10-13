@@ -1,0 +1,45 @@
+
+.main {
+    background-color: rgb(46, 0, 70);
+}
+
+img {
+    width: 325px;
+    margin: 10px;
+}
+.image {
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.text {
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    padding: 15px;
+    font-family: "Qwitcher Grypen";
+    font-weight: bold;
+    
+}
+
+h3 {
+    font-family: "Qwitcher Grypen";
+    font-weight: bold; 
+}
+
+
+.qwitcher-grypen-regular {
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .qwitcher-grypen-bold {
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+  

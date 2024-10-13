@@ -1,0 +1,29 @@
+body {
+    background-image: url("../assets/pokemon-bg.jpg");
+}
+
+.main-container {
+    display: flex;
+    /* flex-direction: center; */
+    justify-content: center;
+}
+
+.whitebox {
+    width: 250px;
+    background-color: white;
+    height: 250px;
+    margin-top: 200px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.pikatchu {
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    margin-top: 10px;
+}
